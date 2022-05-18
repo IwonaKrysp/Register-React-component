@@ -1,1 +1,1 @@
-# Register-React-component
+# Register, React component
